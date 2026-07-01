@@ -2,8 +2,10 @@
 
 The Rustic Spoon restaurant menu website built using 100% pure, semantic HTML5.
 
-## Live preview:
-Link: [The Rustic Spoon Restaurant](https://the-rustic-spoon.netlify.app)
+## Preview Link:
+Live: [The Rustic Spoon Restaurant](https://the-rustic-spoon.netlify.app)
+
+Github: [The Rustic Spoon Restaurant Github](https://github.com/mrrakib5007/the-rustic-spoon-html-only)
 
 ---
 
